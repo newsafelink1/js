@@ -25,7 +25,7 @@ var xxx=null;
 if(x=="1"){xxx="/2017/12/10-keuntungan-dalam-menggunakan-kartu.html"}
 if(x=="2"){xxx="/2017/12/adsbygoogle-window.html"}
 if(x=="3"){xxx="/2017/12/5-manfaat-akun-paypal-yang-anda-miliki.html"}
-if(x=="4"){xxx="/2017/12/taukah-anda-6-manfaat-bitcoin.html"}a_to_ve[i].href="https://samwid-safelink.blogspot.com"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="4"){xxx="/2017/12/taukah-anda-6-manfaat-bitcoin.html"}a_to_ve[i].href="http://www.samwid.top"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
